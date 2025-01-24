@@ -1,57 +1,53 @@
-Create a responsive LMS using React and Next.js for server-side rendering
-Implement user authentication and authorization using NextAuth.js
-Design a clean, intuitive UI with Tailwind CSS for rapid styling
-Use React Query for efficient data fetching and caching
-Create a customizable dashboard for students, instructors, and admins
-Implement course creation and management system with rich text editor (Quill.js)
-Design an interactive course player with video support (React Player)
-Create a quiz module with various question types (multiple choice, true/false, essay)
-Implement a discussion forum for each course using React Comments
-Design a progress tracking system with visual indicators and certificates
-Create a notification system for course updates, deadlines, and forum activity
-Implement a calendar component for scheduling and event management (React Big Calendar)
-Design a responsive file management system for course materials
-Create a grading system with customizable rubrics and automated calculations
-Implement a real-time chat feature for student-instructor communication (Socket.io)
-Design an analytics dashboard for instructors and admins (Recharts)
-Create a responsive assignment submission system with plagiarism check
-Implement a recommendation engine for personalized course suggestions
-Design an adaptive learning path based on student performance
-Create a gamification system with points, badges, and leaderboards
-Implement accessibility features (WCAG 2.1 compliance) using react-a11y
-Design a mobile app version using React Native for cross-platform support
-Create a virtual classroom feature with video conferencing (Jitsi Meet API)
-Implement a peer review system for assignments and projects
-Design a responsive e-commerce module for course sales (Stripe integration)
-Create a content versioning system for course materials
-Implement multi-language support using react-i18next
-Design a responsive assessment engine with timed tests and proctoring
-Create a custom certificate generator with templates (react-pdf)
-Implement a skills tracking system with visual skill trees
-Design a responsive student portfolio showcase
-Create an AI-powered tutoring system using natural language processing
-Implement a collaborative whiteboard feature for live sessions (Fabric.js)
-Design a responsive feedback system with sentiment analysis
-Create a custom course authoring tool with drag-and-drop modules
-Implement a learning analytics system with predictive modeling
-Design a responsive mobile-first navigation system
-Create an offline mode for accessing course content (Progressive Web App)
-Implement a voice-controlled interface for hands-free navigation
-Design an adaptive testing system based on item response theory
-Create a custom LTI (Learning Tools Interoperability) integration
-Implement a blockchain-based credential verification system
-Design a responsive virtual lab environment for practical sessions
-Create an AI-powered plagiarism detection system for assignments
-Implement a custom annotation tool for video and text content
-Design a responsive flashcard system with spaced repetition
-Create a custom learning path generator based on career goals
-Implement an automated grading system for programming assignments
-Design a responsive virtual campus with 3D navigation (Three.js)
-Create a custom proctoring system with AI-powered cheating detection
-Implement a voice-based virtual assistant for course navigation
-Design a responsive augmented reality (AR) module for interactive learning
-Create a custom adaptive content delivery system based on learning styles
-Implement a social learning network with user-generated content
-Design a responsive digital library with advanced search capabilities
-Create a custom learning analytics dashboard with machine learning insights
-Implement a virtual reality (VR) module for immersive learning experiences
+Créer un LMS réactif en utilisant React et Next.js pour le rendu côté serveur Mettre en œuvre l'authentification
+et l'autorisation des utilisateurs en utilisant NextAuth.js Concevoir une interface utilisateur propre et 
+intuitive avec Tailwind CSS pour un stylisme rapide Utiliser React Query pour une récupération et une mise en
+cache efficaces des données Créer un tableau de bord personnalisable pour les étudiants, les instructeurs et 
+les administrateurs Mettre en œuvre un système de création et de gestion des cours avec un éditeur de texte enrichi
+(Quill.js) Concevoir un lecteur de cours interactif avec support vidéo (React Player) Créer un module de quiz avec
+différents types de questions (choix multiple, vrai/faux, essai) Mettre en place un forum de discussion pour chaque 
+cours en utilisant React Comments Concevoir un système de suivi des progrès avec des indicateurs visuels et 
+des certificats Créer un système de notification pour les mises à jour de cours, les échéances et l'activité du forum
+Mettre en place un composant de calendrier pour la planification et la gestion des événements (React Big Calendar) 
+Concevoir un système de gestion de fichiers réactif pour le matériel de cours Créer un système de notation avec des 
+rubriques personnalisables et des calculs automatisés
+*** Traduit avec www.DeepL.com/Translator (version gratuite) ***
+
+ Mettre en œuvre une fonction de chat en temps réel pour la communication étudiant-instructeur (Socket.io) Concevoir
+un tableau de bord analytique pour les instructeurs et les administrateurs (Recharts) Créer un système de soumission 
+de devoirs réactif avec vérification du plagiat Mettre en œuvre un moteur de recommandation pour des suggestions de
+cours personnalisées Concevoir un parcours d'apprentissage adaptatif basé sur les performances des étudiants Créer 
+un système de gamification avec des points, des badges et des tableaux de classement Mettre en œuvre des 
+fonctionnalités d'accessibilité (conformité aux WCAG 2.1) en utilisant react-a11y Concevoir une version d'application
+mobile en utilisant React Native pour un support multiplateforme Créer une fonction de classe virtuelle avec 
+vidéoconférence (Jitsi Meet API) Mettre en œuvre un système d'évaluation par les pairs pour les devoirs et les projets
+Concevoir un module de commerce électronique réactif pour les ventes de cours (intégration Stripe) Créer un système
+de versionnage du contenu pour les supports de cours Mettre en œuvre un support multilingue en utilisant react-i18next
+Concevoir un moteur d'évaluation réactif avec des tests chronométrés et des surveillances Créer un générateur 
+de certificat personnalisé avec des modèles (react-pdf) Mettre en œuvre un système de suivi des compétences avec des 
+arbres de compétences visuels Concevoir une vitrine de portfolio étudiant réactif Créer un système de tutorat alimenté 
+par l'IA en utilisant le traitement du langage naturel Mettre en œuvre une fonctionnalité de tableau blanc collaboratif 
+pour les sessions en direct (Fabric.js)
+*** Traduit avec www.DeepL.com/Translator (version gratuite) ***
+
+ Concevoir un système de retour d'information réactif avec analyse des sentiments Créer un outil de création de cours
+personnalisé avec des modules glisser-déposer Mettre en œuvre un système d'analyse de l'apprentissage avec modélisation
+prédictive Concevoir un système de navigation mobile réactif Créer un mode hors ligne pour accéder au contenu du cours
+(Progressive Web App) Mettre en œuvre une interface à commande vocale pour l'apprentissage en ligne.Concevoir un système
+de test adaptatif basé sur la théorie de la réponse aux items Créer une intégration LTI (Learning Tools Interoperability)
+personnalisée Mettre en œuvre un système de vérification des titres de compétences basé sur la blockchain Concevoir
+un environnement de laboratoire virtuel réactif pour les sessions pratiques Créer un système de détection du plagiat 
+basé sur l'IA pour les devoirs Mettre en œuvre un outil d'annotation personnalisé pour le contenu vidéo et textuel 
+Concevoir un système de flashcards réactif avec la répétition espacée
+*** Traduit avec www.DeepL.com/Translator (version gratuite) ***
+
+ Créer un générateur de parcours d'apprentissage personnalisé basé sur les objectifs de carrière Mettre en œuvre un système
+de notation automatisé pour les travaux de programmation Concevoir un campus virtuel réactif avec une navigation en 3D 
+(Trois.js) Créer un système de surveillance personnalisé avec détection de tricherie par IA Mettre en œuvre un assistant 
+virtuel vocal pour la navigation dans les cours Concevoir un module de réalité augmentée (RA) réactif pour l'apprentissage
+interactif Créer un système de fourniture de contenu adaptatif personnalisé basé sur les styles d'apprentissage Mettre en
+œuvre un réseau d'apprentissage social avec du contenu généré par l'utilisateur Concevoir une bibliothèque numérique réactive
+avec des capacités de recherche avancées Créer un tableau de bord analytique d'apprentissage personnalisé avec des informations
+sur l'apprentissage automatique Mettre en œuvre un module de réalité virtuelle (RV) pour des expériences d'apprentissage immersives
+*** Traduit avec www.DeepL.com/Translator (version gratuite) ***
+
+
