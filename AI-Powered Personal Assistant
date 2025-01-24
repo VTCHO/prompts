@@ -1,56 +1,61 @@
-Create a responsive AI-powered personal assistant web app using React and Next.js for SSR
-Implement user authentication and data encryption using Firebase Authentication and Crypto-js
-Design an intuitive, conversational UI with Material-UI and Framer Motion for animations
-Use Redux Toolkit for state management and Redux-Saga for side effects
-Create a natural language processing system using TensorFlow.js and pre-trained models
-Implement speech recognition and text-to-speech using Web Speech API
-Design a customizable dashboard with widgets for various assistant functions
-Create an AI-driven task management system with natural language input
-Implement calendar integration using Google Calendar API for scheduling
-Design a smart notification system with priority-based alerts
-Create an email management feature with AI-powered categorization and summary
-Implement a note-taking system with voice input and automatic transcription
-Design a personalized news feed using machine learning for content curation
-Create a smart home integration using Web Bluetooth API for device control
-Implement a financial management feature with expense tracking and budgeting
-Design an AI-powered meal planner and recipe suggester based on preferences
-Create a language learning module with personalized lessons and pronunciation feedback
-Implement a travel planning feature with AI-driven itinerary suggestions
-Design a health and fitness tracker with personalized workout recommendations
-Create a document summarization tool using natural language processing
-Implement a smart search feature across all app functions and user data
-Design a mood tracking system with sentiment analysis of user interactions
-Create an AI-powered writing assistant for grammar and style suggestions
-Implement a personal knowledge base with automatic categorization and linking
-Design a habit formation and tracking system with personalized nudges
-Create a smart shopping list with automatic item suggestions based on usage
-Implement a meditation and mindfulness feature with guided sessions
-Design an AI-driven career development tool with skill recommendations
-Create a personal book club with AI-powered book recommendations
-Implement a smart alarm system with sleep cycle analysis
-Design a personal style assistant with outfit recommendations
-Create a goal-setting and progress tracking feature with AI-driven insights
-Implement a smart contact manager with relationship insights
-Design a personal finance advisor with investment suggestions
-Create an AI-powered study assistant with personalized learning paths
-Implement a smart home energy management system with usage predictions
-Design a personal time management tool with AI-optimized schedules
-Create a smart travel companion with real-time language translation
-Implement a personal security advisor with customized safety tips
-Design an AI-driven personal development coach with tailored exercises
-Create a smart gift recommendation system based on recipient preferences
-Implement a personal carbon footprint tracker with reduction suggestions
-Design a smart news summarizer with bias detection and multiple viewpoints
-Create an AI-powered personal therapist with cognitive behavioral techniques
-Implement a smart music discovery system with mood-based playlists
-Design a personal networking assistant with connection suggestions
-Create an AI-driven personal branding advisor for social media optimization
-Implement a smart document organizer with automatic tagging and retrieval
-Design a personal creativity booster with AI-generated prompts and exercises
-Create a smart meeting assistant with automatic note-taking and action items
-Implement an AI-powered personal stylist with virtual try-on capabilities
-Design a smart home maintenance scheduler with predictive maintenance
-Create a personal memory enhancer with spaced repetition learning techniques
-Implement an AI-driven personal nutritionist with meal analysis and suggestions
-Design a smart voice journal with emotion detection and mood tracking
-Create a personal productivity analyzer with AI-powered workflow optimization
+Créer une application web responsive d'assistant personnel alimenté par l'IA en utilisant React et Next.
+js pour SSR Mettre en œuvre l'authentification des utilisateurs et le cryptage des données en utilisant 
+Firebase Authentication et Crypto-js Concevoir une interface utilisateur intuitive et conversationnelle 
+avec Material-UI et Framer Motion pour les animations Utiliser Redux Toolkit pour la gestion des états 
+et Redux-Saga pour les effets de bord Créer un système de traitement du langage naturel à l'aide de 
+TensorFlow.js et des modèles pré-entraînés Implémenter la reconnaissance vocale et la synthèse vocale 
+en utilisant Web Speech API Concevoir un tableau de bord personnalisable avec des widgets pour les 
+différentes fonctions de l'assistant Créer un système de gestion des tâches piloté par l'IA avec 
+des entrées en langage naturel Implémenter l'intégration du calendrier en utilisant Google Calendar 
+API pour la planification Concevoir un système de notification intelligent avec des alertes basées sur 
+les priorités
+*** Traduit avec www.DeepL.com/Translator (version gratuite) ***
+
+ Créer une fonction de gestion des courriels avec catégorisation et résumé pilotés par l'IA Mettre en 
+œuvre un système de prise de notes avec saisie vocale et transcription automatique Concevoir un flux 
+d'actualités personnalisé utilisant l'apprentissage automatique pour la curation de contenu Créer 
+une intégration de maison intelligente utilisant l'API Web Bluetooth pour le contrôle des appareils 
+Mettre en œuvre une fonction de gestion financière avec suivi des dépenses et budgétisation Concevoir
+un planificateur de repas et un suggérateur de recettes pilotés par l'IA en fonction des préférences Créer 
+un module d'apprentissage des langues avec leçons personnalisées et retour sur la prononciation Mettre en
+œuvre une fonction de planification de voyage avec l'apprentissage automatique de l'IAConcevoir un outil 
+de résumé de documents utilisant le traitement du langage naturel Mettre en œuvre une fonction de recherche
+intelligente pour toutes les fonctions de l'application et les données de l'utilisateur Concevoir un système
+de suivi de l'humeur avec analyse du sentiment des interactions de l'utilisateur Créer un assistant d'écriture 
+alimenté par l'IA pour les suggestions de grammaire et de style Mettre en œuvre une base de connaissances 
+personnelle avec catégorisation et liaison automatiques Concevoir un système de formation et de suivi des 
+habitudes avec des incitations personnalisées Créer une liste de courses intelligente avec des suggestions 
+automatiques d'articles basées sur l'utilisation
+*** Traduit avec www.DeepL.com/Translator (version gratuite) ***
+
+ Mettre en œuvre une fonction de méditation et de pleine conscience avec des sessions guidées Concevoir un outil
+de développement de carrière piloté par l'IA avec des recommandations de compétences Créer un club de lecture 
+personnel avec des recommandations de livres pilotées par l'IA Mettre en œuvre un système d'alarme intelligent 
+avec une analyse du cycle de sommeil Concevoir un assistant de style personnel avec des recommandations de tenues
+Créer une fonction de définition d'objectifs et de suivi des progrès avec des informations pilotées par l'IA Mettre
+en œuvre un gestionnaire de contacts intelligent avec des informations sur les relations Concevoir un conseiller 
+en finances personnelles avec des suggestions d'investissement Créer une fonction de suivi des objectifs et 
+des progrès avec des informations pilotées par l'IACréer un assistant d'étude alimenté par l'IA avec des parcours 
+d'apprentissage personnalisés Mettre en œuvre un système de gestion intelligente de l'énergie domestique avec des
+prévisions d'utilisation Concevoir un outil de gestion du temps personnel avec des horaires optimisés par l'IA Créer
+un compagnon de voyage intelligent avec une traduction linguistique en temps réel Mettre en œuvre un conseiller en 
+sécurité personnelle avec des conseils de sécurité personnalisés Concevoir un coach en développement personnel piloté 
+par l'IA avec des exercices sur mesure Créer un système de recommandation de cadeaux intelligents basé sur 
+les préférences du destinataire Mettre en œuvre un traqueur de l'empreinte carbone personnelle avec des suggestions 
+de réduction
+*** Traduit avec www.DeepL.com/Translator (version gratuite) ***
+
+ Concevoir un synthétiseur d'actualités intelligent avec détection des biais et points de vue multiples Créer
+un thérapeute personnel piloté par l'IA avec des techniques cognitivo-comportementales Mettre en œuvre un système
+de découverte musicale intelligent avec des listes de lecture basées sur l'humeur Concevoir un assistant de mise 
+en réseau personnel avec des suggestions de connexion Créer un conseiller en stratégie de marque personnelle piloté 
+par l'IA pour l'optimisation des médias sociaux Mettre en œuvre un organisateur de documents intelligent avec étiquetage 
+et récupération automatiques Concevoir un stimulant de la créativité personnelle avec l'IA et l'intelligence artificielle.
+Créer un assistant de réunion intelligent avec prise de notes et actions automatiques Mettre en œuvre un styliste personnel
+piloté par l'IA avec des capacités d'essayage virtuel Concevoir un planificateur d'entretien domestique intelligent avec
+maintenance prédictive Mettre en œuvre un nutritionniste personnel piloté par l'IA avec analyse et suggestions de repas
+Concevoir un journal vocal intelligent avec détection des émotions et suivi de l'humeur Créer un analyseur de productivité
+personnel avec optimisation du flux de travail piloté par l'IA
+*** Traduit avec www.DeepL.com/Translator (version gratuite) ***
+
+
